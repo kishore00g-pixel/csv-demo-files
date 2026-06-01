@@ -1,0 +1,11 @@
+id,name,city,note
+1,田中太郎,東京,日本語の例
+2,Хосе Гарсия,Москва,Кириллица + латиница
+3,محمد أحمد,القاهرة,النص العربي يكتب من اليمين إلى اليسار
+4,José Ángel,México,"Acentos y diacríticos: ñ, á, é, í, ó, ú"
+5,李小明,北京,中文字符 + emoji 🎉🌍🚀
+6,Müller-König,München,Umlauts: ä ö ü ß
+7,Σωκράτης,Αθήνα,Ελληνικά γράμματα
+8,Krishan,मुंबई,देवनागरी लिपि
+9,🌟 emoji-name 🎨,🌆 city,Mixed: 中文 + русский + emoji 😀
+10,a​b​c,zero-width-spaces,Hidden characters between letters
