@@ -1,0 +1,15 @@
+{
+	"name": "adfazuredatalakeproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2126946a-54a7-44b0-a611-cd5deecfdc2b",
+		"tenantId": "9fe51481-21f7-47ac-a82f-951abf12c6c4"
+	}
+}
